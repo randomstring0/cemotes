@@ -584,6 +584,25 @@
       "favoriteCount": 47028,
       "offSaleDeadline": null,
       "saleLocationType": "NotApplicable"
+    },
+     {
+      "id": 18305539673,
+      "itemType": "Asset",
+      "assetType": 61,
+      "name": "Vans Ollie",
+      "description": "Show’em your pop, The Vans Ollie",
+      "productId": 768429859,
+      "itemStatus": [],
+      "itemRestrictions": [],
+      "creatorHasVerifiedBadge": true,
+      "creatorType": "User",
+      "creatorTargetId": 1,
+      "creatorName": "Roblox",
+      "price": 0,
+      "purchaseCount": 0,
+      "favoriteCount": 1234,
+      "offSaleDeadline": null,
+      "saleLocationType": "NotApplicable"
     }
   ]
 }

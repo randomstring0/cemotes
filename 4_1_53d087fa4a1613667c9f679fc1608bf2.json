@@ -603,6 +603,25 @@
       "favoriteCount": 1234,
       "offSaleDeadline": null,
       "saleLocationType": "NotApplicable"
+    },
+     {
+      "id": 18443271885,
+      "itemType": "Asset",
+      "assetType": 61,
+      "name": "SpongeBob Dance",
+      "description": "Recreate SpongeBob's iconic Jellyfish Jam dance with this emote! You can find all SpongeBob emotes here: https://www.roblox.com/games/14696958202 ©2024 Viacom. SpongeBob SquarePants created by Stephen Hillenburg",
+      "productId": 768429859,
+      "itemStatus": [],
+      "itemRestrictions": [],
+      "creatorHasVerifiedBadge": true,
+      "creatorType": "User",
+      "creatorTargetId": 1,
+      "creatorName": "Roblox",
+      "price": 0,
+      "purchaseCount": 0,
+      "favoriteCount": 1234,
+      "offSaleDeadline": null,
+      "saleLocationType": "NotApplicable"
     }
   ]
 }

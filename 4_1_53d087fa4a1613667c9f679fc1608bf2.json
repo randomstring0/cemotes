@@ -623,5 +623,24 @@
       "offSaleDeadline": null,
       "saleLocationType": "NotApplicable"
     }
+     {
+      "id": 18524331128,
+      "itemType": "Asset",
+      "assetType": 61,
+      "name": "Shrek Roar",
+      "description": "'Do the roar!'. Courtesy of DreamWorks Animation. https://www.roblox.com/games/15992589987/Shrek-Swamp-Tycoon",
+      "productId": 768429859,
+      "itemStatus": [],
+      "itemRestrictions": [],
+      "creatorHasVerifiedBadge": true,
+      "creatorType": "User",
+      "creatorTargetId": 1,
+      "creatorName": "Roblox",
+      "price": 200,
+      "purchaseCount": 0,
+      "favoriteCount": 1534,
+      "offSaleDeadline": null,
+      "saleLocationType": "NotApplicable"
+    }
   ]
 }
